@@ -70,7 +70,7 @@ To create a production build, use npm run build.
 
 A new browser window should start showing the default page:
 
-![](../images/initial.png)
+![](../images/default-page.png)
 
 :bulb: You can stop the development server by pressing <kbd>CTRL</kbd>+<kbd>C</kbd> in the terminal window.
 
